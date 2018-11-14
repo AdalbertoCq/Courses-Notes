@@ -21,9 +21,13 @@
 * [Discrete Stochastic Processes/MIT/Robert Gallager.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/index.htm)
 * Missing "Continuous stichastic Processes" course.
 
+## Information Theory.
+* Missing course.
+
 ## Deep Learning.
 * [Deep Generative Models/Stanford/Stefano Ermon.](https://deepgenerativemodels.github.io/)
 * [Deep Learning Specialization/Coursera/Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 
 ## Machine Learning.
 * [Machine Learning/Stanford/Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
