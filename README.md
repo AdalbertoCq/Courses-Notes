@@ -19,6 +19,7 @@
 
 ## Stochastic Processes.
 * [Discrete Stochastic Processes/MIT/Robert Gallager.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/index.htm)
+* Missing "Continuous stichastic Processes" course.
 
 ## Deep Learning.
 * [Deep Generative Models/Stanford/Stefano Ermon.](https://deepgenerativemodels.github.io/)
