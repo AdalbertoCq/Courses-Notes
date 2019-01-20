@@ -23,7 +23,9 @@
 * Missing "Continuous stichastic Processes" course.
 
 ## Information Theory.
-* Missing course.
+* Course: [Information Theory/The Chinese University of Hong Kong/Prof. Raymond W. Yeung.](https://www.coursera.org/learn/information-theory)
+* Course Classes: [Information Theory/York University.](https://www.youtube.com/user/cse6222yorku/featured)
+* Course Classes: [Information Theory/Stanford University.](https://www.youtube.com/user/classxteam)
 
 ## Deep Learning.
 * Course: [Deep Generative Models/Stanford/Stefano Ermon.](https://deepgenerativemodels.github.io/)
